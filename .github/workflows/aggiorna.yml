@@ -2,10 +2,35 @@ name: Aggiorna OverGol
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: write
 
 jobs:
-  controllo:
+  aggiorna:
     runs-on: ubuntu-latest
     steps:
-      - name: Verifica configurazione
-        run: echo "OverGol pronto per i prossimi aggiornamenti"
+      - name: Scarica repository
+        uses: actions/checkout@v4
+
+      - name: Prepara Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Scarica partite reali
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: python aggiorna_dati.py
+
+      - name: Salva dati aggiornati
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dati/partite.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Aggiorna partite reali"
+            git push
+          fi
