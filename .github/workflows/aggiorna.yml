@@ -1,0 +1,11 @@
+name: Aggiorna OverGol
+
+on:
+  workflow_dispatch:
+
+jobs:
+  controllo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verifica configurazione
+        run: echo "OverGol pronto per i prossimi aggiornamenti"
