@@ -1,105 +1,15 @@
 {
-  "aggiornato_il": "2026-10-21T20:52:24.178810+00:00",
+  "aggiornato_il": "2026-10-22T00:53:32.240953+00:00",
   "partite": [
     {
-      "id": 575369,
-      "data": "2026-10-21T16:45:00Z",
-      "competizione": "UEFA Champions League",
-      "casa": "Lille OSC",
-      "trasferta": "Galatasaray SK",
-      "stato": "FINISHED",
-      "gol_casa": 2,
-      "gol_trasferta": 4
-    },
-    {
-      "id": 575368,
-      "data": "2026-10-21T16:45:00Z",
-      "competizione": "UEFA Champions League",
-      "casa": "Como 1907",
-      "trasferta": "Manchester United FC",
-      "stato": "FINISHED",
-      "gol_casa": 4,
-      "gol_trasferta": 1
-    },
-    {
-      "id": 564685,
-      "data": "2026-10-21T18:00:00Z",
-      "competizione": "Primera Division",
-      "casa": "Levante UD",
-      "trasferta": "Athletic Club",
-      "stato": "FINISHED",
-      "gol_casa": 3,
-      "gol_trasferta": 1
-    },
-    {
-      "id": 575373,
-      "data": "2026-10-21T19:00:00Z",
-      "competizione": "UEFA Champions League",
-      "casa": "Club Brugge KV",
-      "trasferta": "Racing Club de Lens",
-      "stato": "IN_PLAY",
-      "gol_casa": 3,
-      "gol_trasferta": 0
-    },
-    {
-      "id": 575375,
-      "data": "2026-10-21T19:00:00Z",
-      "competizione": "UEFA Champions League",
-      "casa": "Sporting Clube de Portugal",
-      "trasferta": "LASK Linz",
-      "stato": "IN_PLAY",
-      "gol_casa": 1,
-      "gol_trasferta": 3
-    },
-    {
-      "id": 575371,
-      "data": "2026-10-21T19:00:00Z",
-      "competizione": "UEFA Champions League",
-      "casa": "FC Internazionale Milano",
-      "trasferta": "FK Shakhtar Donetsk",
-      "stato": "IN_PLAY",
-      "gol_casa": 1,
-      "gol_trasferta": 0
-    },
-    {
-      "id": 575372,
-      "data": "2026-10-21T19:00:00Z",
-      "competizione": "UEFA Champions League",
-      "casa": "FC Bayern München",
-      "trasferta": "Arsenal FC",
-      "stato": "IN_PLAY",
-      "gol_casa": 2,
-      "gol_trasferta": 2
-    },
-    {
-      "id": 575374,
-      "data": "2026-10-21T19:00:00Z",
-      "competizione": "UEFA Champions League",
-      "casa": "Aston Villa FC",
-      "trasferta": "Viking FK",
-      "stato": "IN_PLAY",
-      "gol_casa": 3,
-      "gol_trasferta": 0
-    },
-    {
-      "id": 575370,
-      "data": "2026-10-21T19:00:00Z",
-      "competizione": "UEFA Champions League",
-      "casa": "Real Madrid CF",
-      "trasferta": "RB Leipzig",
-      "stato": "IN_PLAY",
-      "gol_casa": 3,
-      "gol_trasferta": 1
-    },
-    {
-      "id": 575376,
-      "data": "2026-10-21T19:00:00Z",
-      "competizione": "UEFA Champions League",
-      "casa": "Real Betis Balompié",
-      "trasferta": "Feyenoord Rotterdam",
-      "stato": "IN_PLAY",
-      "gol_casa": 1,
-      "gol_trasferta": 0
+      "id": 576424,
+      "data": "2026-10-22T00:30:00Z",
+      "competizione": "Copa Libertadores",
+      "casa": "SE Palmeiras",
+      "trasferta": "Fluminense FC",
+      "stato": "SCHEDULED",
+      "gol_casa": null,
+      "gol_trasferta": null
     }
   ]
 }
