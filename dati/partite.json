@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-10-23T00:56:09.378581+00:00",
+  "aggiornato_il": "2026-10-23T06:52:03.255607+00:00",
   "partite": [
     {
       "id": 576425,
@@ -62,21 +62,21 @@
       "gol_trasferta": null
     },
     {
-      "id": 564719,
-      "data": "2026-10-23T19:00:00Z",
-      "competizione": "Primera Division",
-      "casa": "Deportivo Alavés",
-      "trasferta": "Málaga CF",
-      "stato": "TIMED",
-      "gol_casa": null,
-      "gol_trasferta": null
-    },
-    {
       "id": 561894,
       "data": "2026-10-23T19:00:00Z",
       "competizione": "Championship",
       "casa": "Bolton Wanderers FC",
       "trasferta": "Middlesbrough FC",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 564719,
+      "data": "2026-10-23T19:00:00Z",
+      "competizione": "Primera Division",
+      "casa": "Deportivo Alavés",
+      "trasferta": "Málaga CF",
       "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
