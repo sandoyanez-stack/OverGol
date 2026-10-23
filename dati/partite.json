@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-10-23T06:52:03.255607+00:00",
+  "aggiornato_il": "2026-10-23T12:50:51.973503+00:00",
   "partite": [
     {
       "id": 576425,
@@ -32,16 +32,6 @@
       "gol_trasferta": null
     },
     {
-      "id": 559654,
-      "data": "2026-10-23T18:45:00Z",
-      "competizione": "Ligue 1",
-      "casa": "Stade Brestois 29",
-      "trasferta": "OGC Nice",
-      "stato": "TIMED",
-      "gol_casa": null,
-      "gol_trasferta": null
-    },
-    {
       "id": 558567,
       "data": "2026-10-23T18:45:00Z",
       "competizione": "Serie A",
@@ -52,11 +42,21 @@
       "gol_trasferta": null
     },
     {
-      "id": 560620,
+      "id": 559654,
+      "data": "2026-10-23T18:45:00Z",
+      "competizione": "Ligue 1",
+      "casa": "Stade Brestois 29",
+      "trasferta": "OGC Nice",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 564719,
       "data": "2026-10-23T19:00:00Z",
-      "competizione": "Premier League",
-      "casa": "Ipswich Town FC",
-      "trasferta": "Nottingham Forest FC",
+      "competizione": "Primera Division",
+      "casa": "Deportivo Alavés",
+      "trasferta": "Málaga CF",
       "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
@@ -72,11 +72,11 @@
       "gol_trasferta": null
     },
     {
-      "id": 564719,
+      "id": 560620,
       "data": "2026-10-23T19:00:00Z",
-      "competizione": "Primera Division",
-      "casa": "Deportivo Alavés",
-      "trasferta": "Málaga CF",
+      "competizione": "Premier League",
+      "casa": "Ipswich Town FC",
+      "trasferta": "Nottingham Forest FC",
       "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
