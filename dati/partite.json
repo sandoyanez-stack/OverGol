@@ -1,13 +1,103 @@
 {
-  "aggiornato_il": "2026-10-22T18:48:48.410401+00:00",
+  "aggiornato_il": "2026-10-23T00:56:09.378581+00:00",
   "partite": [
     {
-      "id": 576424,
-      "data": "2026-10-22T00:30:00Z",
+      "id": 576425,
+      "data": "2026-10-23T00:30:00Z",
       "competizione": "Copa Libertadores",
-      "casa": "SE Palmeiras",
-      "trasferta": "Fluminense FC",
+      "casa": "CR Flamengo",
+      "trasferta": "Estudiantes de La Plata",
       "stato": "SCHEDULED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 558863,
+      "data": "2026-10-23T18:00:00Z",
+      "competizione": "Eredivisie",
+      "casa": "Go Ahead Eagles",
+      "trasferta": "Telstar 1963",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 565833,
+      "data": "2026-10-23T18:30:00Z",
+      "competizione": "Bundesliga",
+      "casa": "VfB Stuttgart",
+      "trasferta": "Borussia Mönchengladbach",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 559654,
+      "data": "2026-10-23T18:45:00Z",
+      "competizione": "Ligue 1",
+      "casa": "Stade Brestois 29",
+      "trasferta": "OGC Nice",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 558567,
+      "data": "2026-10-23T18:45:00Z",
+      "competizione": "Serie A",
+      "casa": "Torino FC",
+      "trasferta": "AC Monza",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 560620,
+      "data": "2026-10-23T19:00:00Z",
+      "competizione": "Premier League",
+      "casa": "Ipswich Town FC",
+      "trasferta": "Nottingham Forest FC",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 564719,
+      "data": "2026-10-23T19:00:00Z",
+      "competizione": "Primera Division",
+      "casa": "Deportivo Alavés",
+      "trasferta": "Málaga CF",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 561894,
+      "data": "2026-10-23T19:00:00Z",
+      "competizione": "Championship",
+      "casa": "Bolton Wanderers FC",
+      "trasferta": "Middlesbrough FC",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 567329,
+      "data": "2026-10-23T19:45:00Z",
+      "competizione": "Primeira Liga",
+      "casa": "Vitória SC",
+      "trasferta": "CS Marítimo",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 555052,
+      "data": "2026-10-23T23:00:00Z",
+      "competizione": "Campeonato Brasileiro Série A",
+      "casa": "Cruzeiro EC",
+      "trasferta": "Clube do Remo",
+      "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
     }
