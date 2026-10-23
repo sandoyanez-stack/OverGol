@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-10-23T12:50:51.973503+00:00",
+  "aggiornato_il": "2026-10-23T18:48:45.757794+00:00",
   "partite": [
     {
       "id": 576425,
@@ -17,9 +17,9 @@
       "competizione": "Eredivisie",
       "casa": "Go Ahead Eagles",
       "trasferta": "Telstar 1963",
-      "stato": "TIMED",
-      "gol_casa": null,
-      "gol_trasferta": null
+      "stato": "IN_PLAY",
+      "gol_casa": 2,
+      "gol_trasferta": 0
     },
     {
       "id": 565833,
@@ -27,9 +27,9 @@
       "competizione": "Bundesliga",
       "casa": "VfB Stuttgart",
       "trasferta": "Borussia Mönchengladbach",
-      "stato": "TIMED",
-      "gol_casa": null,
-      "gol_trasferta": null
+      "stato": "IN_PLAY",
+      "gol_casa": 1,
+      "gol_trasferta": 0
     },
     {
       "id": 558567,
@@ -52,21 +52,21 @@
       "gol_trasferta": null
     },
     {
-      "id": 564719,
-      "data": "2026-10-23T19:00:00Z",
-      "competizione": "Primera Division",
-      "casa": "Deportivo Alavés",
-      "trasferta": "Málaga CF",
-      "stato": "TIMED",
-      "gol_casa": null,
-      "gol_trasferta": null
-    },
-    {
       "id": 561894,
       "data": "2026-10-23T19:00:00Z",
       "competizione": "Championship",
       "casa": "Bolton Wanderers FC",
       "trasferta": "Middlesbrough FC",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 564719,
+      "data": "2026-10-23T19:00:00Z",
+      "competizione": "Primera Division",
+      "casa": "Deportivo Alavés",
+      "trasferta": "Málaga CF",
       "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
