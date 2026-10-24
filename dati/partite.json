@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-10-24T00:58:34.583791+00:00",
+  "aggiornato_il": "2026-10-24T06:48:57.683141+00:00",
   "partite": [
     {
       "id": 561904,
@@ -22,21 +22,21 @@
       "gol_trasferta": null
     },
     {
-      "id": 561895,
-      "data": "2026-10-24T11:30:00Z",
-      "competizione": "Championship",
-      "casa": "Sheffield United FC",
-      "trasferta": "Derby County FC",
-      "stato": "TIMED",
-      "gol_casa": null,
-      "gol_trasferta": null
-    },
-    {
       "id": 561901,
       "data": "2026-10-24T11:30:00Z",
       "competizione": "Championship",
       "casa": "Charlton Athletic FC",
       "trasferta": "Norwich City FC",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 561895,
+      "data": "2026-10-24T11:30:00Z",
+      "competizione": "Championship",
+      "casa": "Sheffield United FC",
+      "trasferta": "Derby County FC",
       "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
@@ -72,6 +72,16 @@
       "gol_trasferta": null
     },
     {
+      "id": 565834,
+      "data": "2026-10-24T13:30:00Z",
+      "competizione": "Bundesliga",
+      "casa": "SC Paderborn 07",
+      "trasferta": "Hamburger SV",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
       "id": 565838,
       "data": "2026-10-24T13:30:00Z",
       "competizione": "Bundesliga",
@@ -87,16 +97,6 @@
       "competizione": "Bundesliga",
       "casa": "1. FC Köln",
       "trasferta": "FC Schalke 04",
-      "stato": "TIMED",
-      "gol_casa": null,
-      "gol_trasferta": null
-    },
-    {
-      "id": 565834,
-      "data": "2026-10-24T13:30:00Z",
-      "competizione": "Bundesliga",
-      "casa": "SC Paderborn 07",
-      "trasferta": "Hamburger SV",
       "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
