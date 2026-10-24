@@ -1,25 +1,25 @@
 {
-  "aggiornato_il": "2026-10-24T12:47:58.019750+00:00",
+  "aggiornato_il": "2026-10-24T18:42:12.556773+00:00",
   "partite": [
-    {
-      "id": 561901,
-      "data": "2026-10-24T11:30:00Z",
-      "competizione": "Championship",
-      "casa": "Charlton Athletic FC",
-      "trasferta": "Norwich City FC",
-      "stato": "IN_PLAY",
-      "gol_casa": 1,
-      "gol_trasferta": 2
-    },
     {
       "id": 561895,
       "data": "2026-10-24T11:30:00Z",
       "competizione": "Championship",
       "casa": "Sheffield United FC",
       "trasferta": "Derby County FC",
-      "stato": "IN_PLAY",
-      "gol_casa": 0,
-      "gol_trasferta": 1
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 561901,
+      "data": "2026-10-24T11:30:00Z",
+      "competizione": "Championship",
+      "casa": "Charlton Athletic FC",
+      "trasferta": "Norwich City FC",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
     },
     {
       "id": 561904,
@@ -27,9 +27,9 @@
       "competizione": "Championship",
       "casa": "Portsmouth FC",
       "trasferta": "Millwall FC",
-      "stato": "IN_PLAY",
-      "gol_casa": 1,
-      "gol_trasferta": 1
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
     },
     {
       "id": 560614,
@@ -37,9 +37,9 @@
       "competizione": "Premier League",
       "casa": "Aston Villa FC",
       "trasferta": "Manchester City FC",
-      "stato": "IN_PLAY",
-      "gol_casa": 1,
-      "gol_trasferta": 1
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
     },
     {
       "id": 564718,
@@ -47,9 +47,9 @@
       "competizione": "Primera Division",
       "casa": "Rayo Vallecano de Madrid",
       "trasferta": "Elche CF",
-      "stato": "IN_PLAY",
-      "gol_casa": 0,
-      "gol_trasferta": 2
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
     },
     {
       "id": 558561,
@@ -72,6 +72,16 @@
       "gol_trasferta": null
     },
     {
+      "id": 565832,
+      "data": "2026-10-24T13:30:00Z",
+      "competizione": "Bundesliga",
+      "casa": "RB Leipzig",
+      "trasferta": "SV 07 Elversberg",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
       "id": 565830,
       "data": "2026-10-24T13:30:00Z",
       "competizione": "Bundesliga",
@@ -82,11 +92,11 @@
       "gol_trasferta": null
     },
     {
-      "id": 565832,
+      "id": 565831,
       "data": "2026-10-24T13:30:00Z",
       "competizione": "Bundesliga",
-      "casa": "RB Leipzig",
-      "trasferta": "SV 07 Elversberg",
+      "casa": "1. FC Köln",
+      "trasferta": "FC Schalke 04",
       "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
@@ -112,11 +122,21 @@
       "gol_trasferta": null
     },
     {
-      "id": 565831,
-      "data": "2026-10-24T13:30:00Z",
-      "competizione": "Bundesliga",
-      "casa": "1. FC Köln",
-      "trasferta": "FC Schalke 04",
+      "id": 561899,
+      "data": "2026-10-24T14:00:00Z",
+      "competizione": "Championship",
+      "casa": "Lincoln City FC",
+      "trasferta": "Burnley FC",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 560616,
+      "data": "2026-10-24T14:00:00Z",
+      "competizione": "Premier League",
+      "casa": "Arsenal FC",
+      "trasferta": "Everton FC",
       "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
@@ -152,21 +172,21 @@
       "gol_trasferta": null
     },
     {
-      "id": 561899,
+      "id": 561893,
       "data": "2026-10-24T14:00:00Z",
       "competizione": "Championship",
-      "casa": "Lincoln City FC",
-      "trasferta": "Burnley FC",
+      "casa": "Cardiff City FC",
+      "trasferta": "Birmingham City FC",
       "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
     },
     {
-      "id": 560616,
+      "id": 561900,
       "data": "2026-10-24T14:00:00Z",
-      "competizione": "Premier League",
-      "casa": "Arsenal FC",
-      "trasferta": "Everton FC",
+      "competizione": "Championship",
+      "casa": "West Ham United FC",
+      "trasferta": "Southampton FC",
       "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
@@ -197,26 +217,6 @@
       "competizione": "Championship",
       "casa": "Preston North End FC",
       "trasferta": "West Bromwich Albion FC",
-      "stato": "TIMED",
-      "gol_casa": null,
-      "gol_trasferta": null
-    },
-    {
-      "id": 561893,
-      "data": "2026-10-24T14:00:00Z",
-      "competizione": "Championship",
-      "casa": "Cardiff City FC",
-      "trasferta": "Birmingham City FC",
-      "stato": "TIMED",
-      "gol_casa": null,
-      "gol_trasferta": null
-    },
-    {
-      "id": 561900,
-      "data": "2026-10-24T14:00:00Z",
-      "competizione": "Championship",
-      "casa": "West Ham United FC",
-      "trasferta": "Southampton FC",
       "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
@@ -272,21 +272,21 @@
       "gol_trasferta": null
     },
     {
-      "id": 560617,
-      "data": "2026-10-24T16:30:00Z",
-      "competizione": "Premier League",
-      "casa": "Chelsea FC",
-      "trasferta": "Tottenham Hotspur FC",
-      "stato": "TIMED",
-      "gol_casa": null,
-      "gol_trasferta": null
-    },
-    {
       "id": 564722,
       "data": "2026-10-24T16:30:00Z",
       "competizione": "Primera Division",
       "casa": "Valencia CF",
       "trasferta": "Villarreal CF",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 560617,
+      "data": "2026-10-24T16:30:00Z",
+      "competizione": "Premier League",
+      "casa": "Chelsea FC",
+      "trasferta": "Tottenham Hotspur FC",
       "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
@@ -332,16 +332,6 @@
       "gol_trasferta": null
     },
     {
-      "id": 564724,
-      "data": "2026-10-24T19:00:00Z",
-      "competizione": "Primera Division",
-      "casa": "Club Atlético de Madrid",
-      "trasferta": "RC Deportivo La Coruña",
-      "stato": "TIMED",
-      "gol_casa": null,
-      "gol_trasferta": null
-    },
-    {
       "id": 558860,
       "data": "2026-10-24T19:00:00Z",
       "competizione": "Eredivisie",
@@ -352,11 +342,31 @@
       "gol_trasferta": null
     },
     {
+      "id": 564724,
+      "data": "2026-10-24T19:00:00Z",
+      "competizione": "Primera Division",
+      "casa": "Club Atlético de Madrid",
+      "trasferta": "RC Deportivo La Coruña",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
       "id": 555055,
       "data": "2026-10-24T19:30:00Z",
       "competizione": "Campeonato Brasileiro Série A",
       "casa": "Mirassol FC",
       "trasferta": "São Paulo FC",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 555054,
+      "data": "2026-10-24T19:30:00Z",
+      "competizione": "Campeonato Brasileiro Série A",
+      "casa": "SC Internacional",
+      "trasferta": "Botafogo FR",
       "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
@@ -377,16 +387,6 @@
       "competizione": "Campeonato Brasileiro Série A",
       "casa": "EC Vitória",
       "trasferta": "CA Paranaense",
-      "stato": "TIMED",
-      "gol_casa": null,
-      "gol_trasferta": null
-    },
-    {
-      "id": 555054,
-      "data": "2026-10-24T19:30:00Z",
-      "competizione": "Campeonato Brasileiro Série A",
-      "casa": "SC Internacional",
-      "trasferta": "Botafogo FR",
       "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
