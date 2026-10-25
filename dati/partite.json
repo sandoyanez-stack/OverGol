@@ -1,5 +1,5 @@
 {
-  "aggiornato_il": "2026-10-25T00:49:37.784358+00:00",
+  "aggiornato_il": "2026-10-25T06:49:39.327571+00:00",
   "partite": [
     {
       "id": 555057,
@@ -7,7 +7,7 @@
       "competizione": "Campeonato Brasileiro Série A",
       "casa": "Santos FC",
       "trasferta": "EC Bahia",
-      "stato": "IN_PLAY",
+      "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
     },
@@ -42,16 +42,6 @@
       "gol_trasferta": null
     },
     {
-      "id": 558857,
-      "data": "2026-10-25T13:30:00Z",
-      "competizione": "Eredivisie",
-      "casa": "NEC",
-      "trasferta": "FC Groningen",
-      "stato": "TIMED",
-      "gol_casa": null,
-      "gol_trasferta": null
-    },
-    {
       "id": 558858,
       "data": "2026-10-25T13:30:00Z",
       "competizione": "Eredivisie",
@@ -62,11 +52,41 @@
       "gol_trasferta": null
     },
     {
-      "id": 560612,
+      "id": 558857,
+      "data": "2026-10-25T13:30:00Z",
+      "competizione": "Eredivisie",
+      "casa": "NEC",
+      "trasferta": "FC Groningen",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 560613,
       "data": "2026-10-25T14:00:00Z",
       "competizione": "Premier League",
-      "casa": "Liverpool FC",
-      "trasferta": "Brighton & Hove Albion FC",
+      "casa": "Crystal Palace FC",
+      "trasferta": "Newcastle United FC",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 558568,
+      "data": "2026-10-25T14:00:00Z",
+      "competizione": "Serie A",
+      "casa": "Genoa CFC",
+      "trasferta": "Venezia FC",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 560619,
+      "data": "2026-10-25T14:00:00Z",
+      "competizione": "Premier League",
+      "casa": "Hull City AFC",
+      "trasferta": "Brentford FC",
       "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
@@ -92,41 +112,21 @@
       "gol_trasferta": null
     },
     {
+      "id": 560612,
+      "data": "2026-10-25T14:00:00Z",
+      "competizione": "Premier League",
+      "casa": "Liverpool FC",
+      "trasferta": "Brighton & Hove Albion FC",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
       "id": 560615,
       "data": "2026-10-25T14:00:00Z",
       "competizione": "Premier League",
       "casa": "Manchester United FC",
       "trasferta": "AFC Bournemouth",
-      "stato": "TIMED",
-      "gol_casa": null,
-      "gol_trasferta": null
-    },
-    {
-      "id": 558568,
-      "data": "2026-10-25T14:00:00Z",
-      "competizione": "Serie A",
-      "casa": "Genoa CFC",
-      "trasferta": "Venezia FC",
-      "stato": "TIMED",
-      "gol_casa": null,
-      "gol_trasferta": null
-    },
-    {
-      "id": 560613,
-      "data": "2026-10-25T14:00:00Z",
-      "competizione": "Premier League",
-      "casa": "Crystal Palace FC",
-      "trasferta": "Newcastle United FC",
-      "stato": "TIMED",
-      "gol_casa": null,
-      "gol_trasferta": null
-    },
-    {
-      "id": 560619,
-      "data": "2026-10-25T14:00:00Z",
-      "competizione": "Premier League",
-      "casa": "Hull City AFC",
-      "trasferta": "Brentford FC",
       "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
@@ -172,21 +172,11 @@
       "gol_trasferta": null
     },
     {
-      "id": 559656,
+      "id": 559651,
       "data": "2026-10-25T16:15:00Z",
       "competizione": "Ligue 1",
-      "casa": "AJ Auxerre",
-      "trasferta": "Le Mans FC",
-      "stato": "TIMED",
-      "gol_casa": null,
-      "gol_trasferta": null
-    },
-    {
-      "id": 559653,
-      "data": "2026-10-25T16:15:00Z",
-      "competizione": "Ligue 1",
-      "casa": "Angers SCO",
-      "trasferta": "FC Lorient",
+      "casa": "Stade Rennais FC 1901",
+      "trasferta": "RC Strasbourg Alsace",
       "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
@@ -212,21 +202,21 @@
       "gol_trasferta": null
     },
     {
-      "id": 559651,
+      "id": 559653,
       "data": "2026-10-25T16:15:00Z",
       "competizione": "Ligue 1",
-      "casa": "Stade Rennais FC 1901",
-      "trasferta": "RC Strasbourg Alsace",
+      "casa": "Angers SCO",
+      "trasferta": "FC Lorient",
       "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
     },
     {
-      "id": 560621,
-      "data": "2026-10-25T16:30:00Z",
-      "competizione": "Premier League",
-      "casa": "Sunderland AFC",
-      "trasferta": "Leeds United FC",
+      "id": 559656,
+      "data": "2026-10-25T16:15:00Z",
+      "competizione": "Ligue 1",
+      "casa": "AJ Auxerre",
+      "trasferta": "Le Mans FC",
       "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
@@ -237,6 +227,16 @@
       "competizione": "Bundesliga",
       "casa": "SC Freiburg",
       "trasferta": "FC Bayern München",
+      "stato": "TIMED",
+      "gol_casa": null,
+      "gol_trasferta": null
+    },
+    {
+      "id": 560621,
+      "data": "2026-10-25T16:30:00Z",
+      "competizione": "Premier League",
+      "casa": "Sunderland AFC",
+      "trasferta": "Leeds United FC",
       "stato": "TIMED",
       "gol_casa": null,
       "gol_trasferta": null
